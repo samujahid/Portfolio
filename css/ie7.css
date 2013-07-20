@@ -1,0 +1,33 @@
+.nine, .row .nine {
+	width: 72%;
+}
+.five, .row .five {
+	width: 38.6667%;
+}
+.four, .row .four {
+	width: 26.3333%;
+}
+.three, .row .three {
+	width: 22%;
+}
+#home-social li {
+	float: right;
+}
+.six, .row .six {
+	width: 47%;
+}
+#skill {
+	padding: 22px 0 0 10px;
+}
+#skill li h5 {
+	top: -35px;
+}
+#skill li {
+	margin-bottom: 20px;
+}
+.navi ul {
+	margin: 4px auto 10px auto;
+}
+.timeline-circle {
+	overflow: visible;
+}
